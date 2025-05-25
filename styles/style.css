@@ -1,0 +1,127 @@
+/*firststyles*/
+
+body{
+	padding: 54px 52px;
+
+}
+
+
+header{
+	margin-bottom: 44px;
+}
+
+.active{
+	color: #4E6FAE;
+}
+
+a{
+	color: #8D81FF;
+	font-weight:700 ;
+	font-size: 26px;
+}
+
+.logo{
+	vertical-align: middle;
+}
+
+nav{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+li{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 81px;
+}
+
+
+.day{
+	color: #84FF81;
+	font-weight: 400;
+	font-size: 24px;
+	padding-top:8px;
+
+}
+
+.night{
+	background-color: #5012D5;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	margin-bottom: 18px;
+
+}
+
+
+.may{
+	color: #8D81FF;
+	font-weight: 400;
+	font-size: 24px;
+	margin-bottom: 14px;
+	font-family: "BPG Nostalgia", sans-serif;
+}
+
+h2{
+   color: #4E6FAE;
+   font-weight: 700;
+   font-size: 20px;
+   margin-bottom: 13px;
+   font-family: "BPG Square", sans-serif;
+}
+
+.cod{
+	margin-right: 66px;
+	margin-bottom: 155px;
+}
+
+.text-start{
+    color: #4E6FAE;
+	font-weight: 400;
+	font-size: 16px;
+	display:inline-block;
+	width: 778px;
+	height: 281px;
+	vertical-align:top;
+	font-family: "BPG Square", sans-serif;
+
+}
+
+.text{
+	margin-bottom: 20px;
+	font-family: "BPG Square", sans-serif;
+}
+
+.text-list{
+	margin-bottom: 5px;
+}
+
+
+.last-text{
+	color: #4E6FAE;
+	font-weight: 400;
+    font-size: 16px;
+    width: 1021px;
+    margin-bottom: 143px;
+    font-family: "BPG Square", sans-serif;
+
+}
+
+
+.comp{
+	width: 447px;
+	height: 280px;
+	margin-top: 14px;
+}
+
+
+.line{
+	color: #5012D5;
+	border: 2px solid;
+	 width: 2px;
+	 height: 48px;
+	 display: inline-block;
+	 margin-right: 41px;
+	 margin-left: 41px;
+
+}

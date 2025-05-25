@@ -1,0 +1,145 @@
+/*secondstyles*/
+
+.active {
+  color: #4E6FAE;
+}
+
+body {
+  padding: 54px 52px;
+}
+
+a {
+  color: #8D81FF;
+  font-weight: 700;
+  font-size: 26px;
+}
+
+.logo {
+  vertical-align: middle;
+}
+
+nav {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+li {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 81px;
+}
+
+.second {
+  margin-left: 194px;
+  margin-top: 97px;
+}
+
+h2 {
+  color: #4E6FAE;
+  font-weight: 700;
+  font-size: 26px;
+  margin-left: 194px;
+  margin-top: 120px;
+  display: inline-block;
+  font-family: "BPG Square", sans-serif;
+}
+
+.line {
+  color: #5012D5;
+  border: 2px solid;
+  width: 2px;
+  height: 22px;
+  margin-left: 18px;
+  margin-right: 17px;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.may {
+  color: #8D81FF;
+  font-weight: 400;
+  font-size: 24px;
+  margin-bottom: 26px;
+  display: inline-block;
+  font-family: "BPG Square", sans-serif;
+}
+
+/* boxes */
+.box-wrapper {
+  margin-left: 194px;
+  font-size: 0;
+}
+
+.box {
+  display: inline-block;
+  vertical-align: top;
+  width: 500px;
+  height: 193px;
+  background: #E7E7E7;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid;
+  margin-right: 52px;
+  font-size: 16px;
+}
+
+.pic2 {
+  width: 77px;
+  height: 77px;
+  margin: 10px 10px 0 26px;
+  display: inline-block;
+}
+
+.maintext {
+  margin-top: 10px;
+  margin-right: 15px;
+  display: inline-block;
+  vertical-align: top;
+  width: 335px;
+  height: 95px;
+  font-family: "Roboto", sans-serif;
+}
+
+.boxtext {
+  font-size: 20px;
+  color: #3F4145;
+  margin: 21px 0 15px 23px;
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+}
+
+.main {
+  color: #7E8898;
+  font-size: 16px;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+/* footer */
+
+.footer-wrapper {
+  margin-left: 194px; 
+  margin-top: 91px;   
+}
+
+.fb, .yt {
+  display: inline-block;
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+}
+
+.fb {
+  margin-right: 41px;
+}
+
+.line1 {
+  display: inline-block;
+  vertical-align: middle;
+  width: 2px;
+  height: 48px;
+  background-color: #5012D5;
+  margin-right: 41px;
+}
+
+
